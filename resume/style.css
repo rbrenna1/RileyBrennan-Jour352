@@ -89,6 +89,7 @@ font-weight: 400;
 
 .menu li {
   display: inline;
+  text-align: center; 
 }
 
 .degrees{
