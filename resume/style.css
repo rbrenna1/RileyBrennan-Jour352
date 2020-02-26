@@ -38,7 +38,7 @@ color: #33485e;
 }
 
 /* section titles */
-.sectiontitle {
+.sectionheader {
 font-size: 1.5em;
 text-transform: uppercase;
 background-color: #33485e;
@@ -76,8 +76,6 @@ font-weight: 400;
   margin-bottom: 10px;
   margin: 0px;
 }
-
-
 
 /* contact info, skills, education */
 .menu {
