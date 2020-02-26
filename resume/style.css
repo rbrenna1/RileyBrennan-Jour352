@@ -84,7 +84,6 @@ font-weight: 400;
   margain: 0px;
   text-align: center;
   margin: 0 auto;
-  display: inline;
   list-style: none;
 }
 
@@ -105,7 +104,7 @@ margain: 0px;
 }
 
 
-.description {
+.top {
   width: 60%;
   min-width: 300px;
   margin: 0 auto;
