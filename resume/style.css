@@ -80,6 +80,18 @@ font-weight: 400;
   display: inline;
 }
 
+.degrees{
+  margin-top: 5px;
+  margin: 0px;  
+}
+
+
+.do {
+margin-top: 5px;
+margain: 0px;
+}
+
+
 .top {
   width: 60%;
   min-width: 300px;
