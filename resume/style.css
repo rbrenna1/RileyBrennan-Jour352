@@ -71,6 +71,14 @@ font-weight: 400;
   margin: 0px;
 }
 
+.description{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin: 0px;
+}
+
+
+
 /* contact info, skills, education */
 .menu {
   font-size: 1em;
@@ -82,7 +90,7 @@ font-weight: 400;
 
 .degrees{
   margin-top: 5px;
-  margin: 0px;  
+  margin: 0px;
 }
 
 
