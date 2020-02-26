@@ -86,6 +86,7 @@ font-weight: 400;
   margain: 0px;
   text-align: center;
   display: inline;
+  list-style: none;
 }
 
 .degrees{
