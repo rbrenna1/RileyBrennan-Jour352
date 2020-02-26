@@ -85,8 +85,10 @@ font-weight: 400;
   text-align: center;
   display: inline;
   list-style: none;
-  inline: horizontal;
+}
 
+.menu li {
+  display: inline;
 }
 
 .degrees{
