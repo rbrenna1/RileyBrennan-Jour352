@@ -34,7 +34,7 @@ color: #33485e;
 }
 
 /* section titles */
-h2 {
+.sectiontitle {
 font-size: 1.5em;
 text-transform: uppercase;
 background-color: #33485e;
@@ -47,19 +47,19 @@ min-width: 300px;
 }
 
 /* job titles */
-h3 {
+.jobtitle {
 font-size: 1.5em;
 font-weight: 600;
 }
 
 /* job organization */
-h4 {
+.joborganization {
 font-size: 1.25em;
 font-weight: 400;
 }
 
 /* job dates */
-h5 {
+.jobdates {
   font-weight: 400;
   font-style: italic;
   font-size: 1em;
